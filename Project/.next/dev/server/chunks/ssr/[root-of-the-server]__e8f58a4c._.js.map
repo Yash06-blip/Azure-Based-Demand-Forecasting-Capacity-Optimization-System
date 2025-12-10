@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/UI/app/compare/page.tsx"],"sourcesContent":["export default function ComparePage() {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-2xl font-bold text-white\">Compare Models</h1>\r\n      <p className=\"text-slate-400 mt-2\">Model comparison coming soon...</p>\r\n    </div>\r\n  )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;gBAAG,WAAU;0BAAgC;;;;;;0BAC9C,8OAAC;gBAAE,WAAU;0BAAsB;;;;;;;;;;;;AAGzC"}}]
+}
