@@ -98,7 +98,7 @@ Based on the analysis of the `cleaned_merged.csv` dataset:
 
 
 
-## 6. ✅ Final Output
+## ✅ Final Output
 
 - The cleaned and fully merged dataset is saved at:  
   `data/processed/cleaned_merged.csv`  
